@@ -1,0 +1,5 @@
+Credentials cache: API:6FF32FD9-36A1-496B-90C1-938673C56B2B
+        Principal: jrobles-@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 24 11:52:08 2021  Nov 24 21:52:01 2021  krbtgt/42MADRID.COM@42MADRID.COM
